@@ -18,7 +18,7 @@
   - 7.1. [Credentials Env Variable](#71-credentials-env-variable)
   - 7.2. [Terraform](#72-terraform)
 - 8.[Project Execution](#8-project-execution)
-  - 8.1. [Data ingestion](#81-data-ingestion)
+  - 8.1. [Data Ingestion](#81-data-ingestion)
     - 8.1.1. [Python](#811-python)
     - 8.1.2. [Prefect](#812-prefect)
   - 8.2. [Data Warehouse](#82-data-warehouse)
@@ -237,7 +237,7 @@ You can also manually delete your Virtual Environment, Bucket and BigQuery resso
 
 # 8. Project Execution
 
-## 8.1. Data ingestion 
+## 8.1. Data Ingestion 
 
 ### 8.1.1 Python 
 
