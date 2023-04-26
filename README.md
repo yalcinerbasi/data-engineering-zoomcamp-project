@@ -1,6 +1,6 @@
 # Table of Contents
 
-- 1. [Problem and Data Description](#1-problem-and-data-description)
+- 1.[Problem and Data Description](#1-problem-and-data-description)
 - 2. [Project Steps](#2-problem-steps)
 - 3. [Architecture](#3-architecture)
 - 4. [Technologies](#4-technologies)
@@ -30,10 +30,10 @@
 
 Here is my project carried out as part of the Data Engineering Zoomcamp 2023 which consists of putting into practice everything we have learned. I use the ELT approach, which stands for Extract, Load and Transform for this project.
 
-I used data about the number  
-and types of applications from the [HM Land Registry complete each month](https://use-land-property-data.service.gov.uk/datasets/td/download) in 2022 for this project.   
+I used data about the number and types of applications from the [HM Land Registry complete each month](https://use-land-property-data.service.gov.uk/datasets/td/download) in 2022 for this project.   
 Specifically the "Number and types of applications by **all account customers**".  
 You can see dataframe for 4 months of the year 2022 in the figure below.
+
 ![](images/review_dataframe.png)
 
 # 2. Project Steps
@@ -53,15 +53,24 @@ The steps for carrying out this project and assessing the data are as follows:
 
 The project is built on the following technologies (which, in case you chance to learn about it here and would like to look at the comprehensive information, are also utilized in the de-zoomcamp 2023):
 
-Cloud platform (Service Account/IAM, Virtual Machine, Storage/Datalake, Warehouse, Visualization): __GCP__ 
+Cloud platform (Service Account/IAM, Virtual Machine, Storage/Datalake, Warehouse): __GCP__ 
+
 Infrastructure as code (IaC): __Terraform__
+
 Containerization: __Docker__
+
 Batch processing: __Python/Pandas__
+
 Enviroment Management: __Conda__
+
 Data lake: __Google Storage__
+
 Data warehouse: __Google Big Query____
+
 Data transformation: __dbt__
+
 Workflow orchestration: __Prefect__
+
 Data visualization: __Metabase__
 
 # 5. Prerequisites
@@ -69,25 +78,23 @@ Data visualization: __Metabase__
 ## 5.1. Cloud Account
  
 ### 5.1.1 Account  
+
 Create a Google Cloud account, [Register here]( https://console.cloud.google.com/)
 
-<br>
-
 ### 5.1.2. Project  
+
 I created a project with the name "dtc-de-383113" on the [GCloud Site](https://console.cloud.google.com/).  
 On the top left you can click on the name of the current project 
 and select "New Project" on the top right.  
 
-<br>
-
 ### 5.1.3. APIs  
+
 Enable the following APIs. The Project-Name on the top left must be "dtc-de-383113".   
 * https://console.cloud.google.com/apis/library/iam.googleapis.com
 * https://console.cloud.google.com/apis/library/iamcredentials.googleapis.com
 
-<br>
-
 ### 5.1.4. Service Account
+
 We will need a account for the communication with our Cloud environment. 
 In GCloud open the menu on the left top.  
 Choose "IAM & Admin". 
@@ -99,9 +106,8 @@ Viewer, Storage Admin, Storage Object Admin,  BigQuery Admin
 
 ![](images/service_account.png)
 
-<br>
-
 ### 5.1.5. Service Account Key
+
 We need the authorization key for the created service account.  
 In the Menu "Service Accounts" click in the list on the name of the account,    
 we created in the previous step. The go to the "KEYS" Tab, "Add Key"    
@@ -109,8 +115,6 @@ we created in the previous step. The go to the "KEYS" Tab, "Add Key"
 Rename the file to 'service_account_dtc-de-383113.json' and    
 save it to your home folder in  `$HOME/.google/`.  
 Save this file also later, when we create the VM.    
-
-<br>
 
 # 6. Cloud Environment
 
@@ -150,7 +154,6 @@ This things will be executed:
   sudo usermod -aG docker $USER
   ~~~
 
-
 ## 6.2. Repository
 
 If you finished all the points in the previous step,  
@@ -162,8 +165,6 @@ Clone this repository into your **home folder**.
 cd $HOME
 git clone https://github.com/yalcinerbasi/data-engineering-zoomcamp-project.git
 ~~~
-
-<br>
 
 # 7. Local Environment
 
@@ -195,11 +196,8 @@ First we need to install terraform on our local machine.
 Follow Instruction based on your local operating system.  
 [Terraform install instruction](https://developer.hashicorp.com/terraform/downloads)  
 
-
 We need the Google SDK for authentication when we use terraform  
 https://cloud.google.com/sdk/docs/install-sdk
-
-<br>
 
 First we need to authorize:
 
@@ -240,7 +238,6 @@ You can also manually delete your Virtual Environment, Bucket and BigQuery resso
 # 8. Project Execution
 
 ## 8.1. Data ingestion 
-<br>
 
 ### 8.1.1 Python 
 
@@ -256,7 +253,6 @@ pip install -r requirements.txt
 ~~~
  
 We will use the same Conda Enviroment which we created above for next steps.  
-<br>
 
 ### 8.1.2. Prefect
 
@@ -404,6 +400,7 @@ dtc-de-383113:
 ~~~
 
 Also, you need to add packages.yml file:
+
 ~~~
 packages:
   - package: dbt-labs/dbt_utils
@@ -433,8 +430,6 @@ The successful result in the termninal looks like this:
 ![](images/dbt_log.png)
 
 After the process we have new objects in BigQuery based on the models we have defined in the Dbt folder.   
-
-<br>
 
 ## 8.4 Dashboard
 
@@ -477,11 +472,7 @@ LIMIT 10
 
 3 Customers have more applications than the other 7 together in the Year 2022.  
 
-
 ![](images/Metabase%20Top%2010%20Number%20of%20Applications%20per%20Customer.png)
-
-
-
 
 Number of Applications per Month
 
