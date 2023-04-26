@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: de_data_warehouse
+    tables:
+      - name: land_and_property_optimized  # enabled

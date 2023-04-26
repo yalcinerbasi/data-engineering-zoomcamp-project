@@ -1,0 +1,186 @@
+2023-04-20 22:35:42.932433 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.933716 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.934082 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.934298 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.934513 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.934792 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.935009 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.935192 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.935378 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:42.938832 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:42.939193 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:42.939506 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:42.939781 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:42.942066 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:42.942519 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:43.085146 (MainThread): invalid escape sequence '\`'
+2023-04-20 22:35:43.371265 (MainThread): invalid escape sequence '\('
+2023-04-20 22:35:44.232250 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.232892 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.233392 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.233621 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.233803 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.233958 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.234111 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.234282 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.234490 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:35:44.238314 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:44.238824 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:44.239146 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:44.239430 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:44.241338 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:44.241545 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:35:44.324600 (MainThread): invalid escape sequence '\`'
+2023-04-20 22:35:44.498704 (MainThread): invalid escape sequence '\('
+2023-04-20 22:38:33.644090 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.644728 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.644921 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.645112 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.645291 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.645453 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.645617 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.645779 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.645955 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:33.649469 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:33.649934 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:33.650280 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:33.650577 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:33.652462 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:33.652729 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:33.801206 (MainThread): invalid escape sequence '\`'
+2023-04-20 22:38:34.067170 (MainThread): invalid escape sequence '\('
+2023-04-20 22:38:34.854180 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.854663 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.854902 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.855080 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.855252 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.855443 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.855831 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.856132 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.856377 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:38:34.859887 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:34.860297 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:34.860665 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:34.860999 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:34.863099 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:34.863343 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:38:34.959399 (MainThread): invalid escape sequence '\`'
+2023-04-20 22:38:35.155673 (MainThread): invalid escape sequence '\('
+2023-04-20 22:38:38.357215 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('192.168.1.42', 55393), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:38.366649 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=15, family=2, type=1, proto=0, laddr=('192.168.1.42', 55395), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:41.415162 (Thread-3 (worker)): unclosed <ssl.SSLSocket fd=22, family=2, type=1, proto=0, laddr=('192.168.1.42', 55403), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:44.424248 (Thread-4 (worker)): unclosed <ssl.SSLSocket fd=36, family=2, type=1, proto=0, laddr=('192.168.1.42', 55409), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:53.402938 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=43, family=2, type=1, proto=0, laddr=('192.168.1.42', 55423), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:55.552193 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=49, family=2, type=1, proto=0, laddr=('192.168.1.42', 55427), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:56.923477 (Thread-3 (worker)): unclosed <ssl.SSLSocket fd=49, family=2, type=1, proto=0, laddr=('192.168.1.42', 55431), raddr=('142.250.184.138', 443)>
+2023-04-20 22:38:58.044646 (Thread-3 (worker)): unclosed <ssl.SSLSocket fd=59, family=2, type=1, proto=0, laddr=('192.168.1.42', 55437), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:00.591523 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=65, family=2, type=1, proto=0, laddr=('192.168.1.42', 55448), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.666671 (MainThread): unclosed <ssl.SSLSocket fd=15, family=2, type=1, proto=0, laddr=('192.168.1.42', 55400), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.666999 (MainThread): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('192.168.1.42', 55401), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.667241 (MainThread): unclosed <ssl.SSLSocket fd=24, family=2, type=1, proto=0, laddr=('192.168.1.42', 55402), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.669408 (MainThread): unclosed <ssl.SSLSocket fd=34, family=2, type=1, proto=0, laddr=('192.168.1.42', 55405), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.671300 (MainThread): unclosed <ssl.SSLSocket fd=35, family=2, type=1, proto=0, laddr=('192.168.1.42', 55408), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.674764 (MainThread): unclosed <ssl.SSLSocket fd=36, family=2, type=1, proto=0, laddr=('192.168.1.42', 55411), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.676351 (MainThread): unclosed <ssl.SSLSocket fd=38, family=2, type=1, proto=0, laddr=('192.168.1.42', 55413), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.679163 (MainThread): unclosed <ssl.SSLSocket fd=40, family=2, type=1, proto=0, laddr=('192.168.1.42', 55415), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.680941 (MainThread): unclosed <ssl.SSLSocket fd=42, family=2, type=1, proto=0, laddr=('192.168.1.42', 55417), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.684809 (MainThread): unclosed <ssl.SSLSocket fd=47, family=2, type=1, proto=0, laddr=('192.168.1.42', 55421), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.685107 (MainThread): unclosed <ssl.SSLSocket fd=44, family=2, type=1, proto=0, laddr=('192.168.1.42', 55420), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.686904 (MainThread): unclosed <ssl.SSLSocket fd=52, family=2, type=1, proto=0, laddr=('192.168.1.42', 55426), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.688338 (MainThread): unclosed <ssl.SSLSocket fd=51, family=2, type=1, proto=0, laddr=('192.168.1.42', 55429), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.691458 (MainThread): unclosed <ssl.SSLSocket fd=49, family=2, type=1, proto=0, laddr=('192.168.1.42', 55434), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.691628 (MainThread): unclosed <ssl.SSLSocket fd=56, family=2, type=1, proto=0, laddr=('192.168.1.42', 55436), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.696831 (MainThread): unclosed <ssl.SSLSocket fd=43, family=2, type=1, proto=0, laddr=('192.168.1.42', 55440), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.697078 (MainThread): unclosed <ssl.SSLSocket fd=59, family=2, type=1, proto=0, laddr=('192.168.1.42', 55441), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.700619 (MainThread): unclosed <ssl.SSLSocket fd=61, family=2, type=1, proto=0, laddr=('192.168.1.42', 55444), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.700804 (MainThread): unclosed <ssl.SSLSocket fd=62, family=2, type=1, proto=0, laddr=('192.168.1.42', 55445), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.703603 (MainThread): unclosed <ssl.SSLSocket fd=66, family=2, type=1, proto=0, laddr=('192.168.1.42', 55449), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.711372 (MainThread): unclosed <ssl.SSLSocket fd=69, family=2, type=1, proto=0, laddr=('192.168.1.42', 55455), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.711658 (MainThread): unclosed <ssl.SSLSocket fd=68, family=2, type=1, proto=0, laddr=('192.168.1.42', 55454), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.711846 (MainThread): unclosed <ssl.SSLSocket fd=70, family=2, type=1, proto=0, laddr=('192.168.1.42', 55456), raddr=('142.250.184.138', 443)>
+2023-04-20 22:39:11.713868 (MainThread): unclosed <ssl.SSLSocket fd=17, family=2, type=1, proto=0, laddr=('192.168.1.42', 55458), raddr=('142.250.184.138', 443)>
+2023-04-20 22:49:43.859325 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.860832 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.861055 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.861245 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.861421 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.861604 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.861805 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.862017 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.862229 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:43.866452 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:43.867050 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:43.867727 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:43.868160 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:43.870332 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:43.870702 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:44.014371 (MainThread): invalid escape sequence '\`'
+2023-04-20 22:49:44.333903 (MainThread): invalid escape sequence '\('
+2023-04-20 22:49:45.130745 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.131596 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.132364 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.132699 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.132895 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.133054 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.133216 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.133403 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.133563 (MainThread): invalid escape sequence '\s'
+2023-04-20 22:49:45.136597 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:45.137007 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:45.137360 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:45.137671 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:45.139977 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:45.140244 (MainThread): invalid escape sequence '\g'
+2023-04-20 22:49:45.234007 (MainThread): invalid escape sequence '\`'
+2023-04-20 22:49:45.416667 (MainThread): invalid escape sequence '\('
+2023-04-20 22:59:25.752315 (MainThread): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('192.168.1.42', 55615), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:28.167864 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('192.168.1.42', 55625), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:46.975110 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=52, family=2, type=1, proto=0, laddr=('192.168.1.42', 55648), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:46.978005 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=54, family=2, type=1, proto=0, laddr=('192.168.1.42', 55650), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:50.838918 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=57, family=2, type=1, proto=0, laddr=('192.168.1.42', 55658), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.872986 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('192.168.1.42', 55617), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.881024 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=24, family=2, type=1, proto=0, laddr=('192.168.1.42', 55622), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.884641 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('192.168.1.42', 55623), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.885381 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=35, family=2, type=1, proto=0, laddr=('192.168.1.42', 55624), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.887794 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('192.168.1.42', 55627), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.892726 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=37, family=2, type=1, proto=0, laddr=('192.168.1.42', 55631), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.893191 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=38, family=2, type=1, proto=0, laddr=('192.168.1.42', 55632), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.896378 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=40, family=2, type=1, proto=0, laddr=('192.168.1.42', 55634), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.901049 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=42, family=2, type=1, proto=0, laddr=('192.168.1.42', 55636), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.916792 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=44, family=2, type=1, proto=0, laddr=('192.168.1.42', 55640), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.919216 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=46, family=2, type=1, proto=0, laddr=('192.168.1.42', 55642), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.921247 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=51, family=2, type=1, proto=0, laddr=('192.168.1.42', 55644), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.930550 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=49, family=2, type=1, proto=0, laddr=('192.168.1.42', 55646), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.933420 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=52, family=2, type=1, proto=0, laddr=('192.168.1.42', 55653), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.935788 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=54, family=2, type=1, proto=0, laddr=('192.168.1.42', 55655), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.938876 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=58, family=2, type=1, proto=0, laddr=('192.168.1.42', 55659), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:51.942295 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=59, family=2, type=1, proto=0, laddr=('192.168.1.42', 55664), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:52.862434 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('192.168.1.42', 55669), raddr=('142.250.184.138', 443)>
+2023-04-20 22:59:57.360666 (MainThread): unclosed <ssl.SSLSocket fd=38, family=2, type=1, proto=0, laddr=('192.168.1.42', 55682), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:12.099425 (MainThread): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('192.168.1.42', 55704), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:13.904714 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=34, family=2, type=1, proto=0, laddr=('192.168.1.42', 55711), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:35.312510 (Thread-4 (worker)): unclosed <ssl.SSLSocket fd=52, family=2, type=1, proto=0, laddr=('192.168.1.42', 55734), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:38.887667 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=59, family=2, type=1, proto=0, laddr=('192.168.1.42', 55744), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:39.989884 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=62, family=2, type=1, proto=0, laddr=('192.168.1.42', 55750), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.458265 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=62, family=2, type=1, proto=0, laddr=('192.168.1.42', 55754), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.572344 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('192.168.1.42', 55706), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.583142 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('192.168.1.42', 55712), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.585182 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=24, family=2, type=1, proto=0, laddr=('192.168.1.42', 55713), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.585930 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('192.168.1.42', 55714), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.588662 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=18, family=2, type=1, proto=0, laddr=('192.168.1.42', 55716), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.590575 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=36, family=2, type=1, proto=0, laddr=('192.168.1.42', 55718), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.593776 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=38, family=2, type=1, proto=0, laddr=('192.168.1.42', 55720), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.596501 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=40, family=2, type=1, proto=0, laddr=('192.168.1.42', 55722), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.599533 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=42, family=2, type=1, proto=0, laddr=('192.168.1.42', 55724), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.602848 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=44, family=2, type=1, proto=0, laddr=('192.168.1.42', 55726), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.605663 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=46, family=2, type=1, proto=0, laddr=('192.168.1.42', 55729), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.609029 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=50, family=2, type=1, proto=0, laddr=('192.168.1.42', 55732), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.612997 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=54, family=2, type=1, proto=0, laddr=('192.168.1.42', 55737), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.616947 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=52, family=2, type=1, proto=0, laddr=('192.168.1.42', 55740), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.619711 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=56, family=2, type=1, proto=0, laddr=('192.168.1.42', 55742), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.622778 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=60, family=2, type=1, proto=0, laddr=('192.168.1.42', 55746), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.630156 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=63, family=2, type=1, proto=0, laddr=('192.168.1.42', 55751), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:41.630954 (Thread-2 (worker)): unclosed <ssl.SSLSocket fd=64, family=2, type=1, proto=0, laddr=('192.168.1.42', 55752), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:44.149954 (Thread-3 (worker)): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('192.168.1.42', 55762), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:44.151052 (Thread-3 (worker)): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('192.168.1.42', 55764), raddr=('142.250.184.138', 443)>
+2023-04-20 23:02:45.860941 (Thread-4 (worker)): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('192.168.1.42', 55769), raddr=('142.250.184.138', 443)>
